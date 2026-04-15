@@ -1,6 +1,5 @@
 # Diagram Builder — Mermaid diagrams in your chat
 
-
 <p>
   <a href="https://github.com/mcp-use/mcp-use">Built with <b>mcp-use</b></a>
   &nbsp;
